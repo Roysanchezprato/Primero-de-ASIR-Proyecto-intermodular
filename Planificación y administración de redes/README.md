@@ -37,7 +37,8 @@ El modelo actual de la red está preparado para soportar el crecimiento de la em
 * **Acceso VPN:** Implementación de un túnel seguro para que la gerencia pueda consultar la contabilidad en remoto.
 
 ---
-* **Autores:** Roy Sánchez Prato | Isaac García
+* **Autor:** Roy Sánchez Prato 
+* **Profesor:** Isaac García
 * **Módulo:** Administración de redes
 * **Centro/Curso:** 1°ASIR Caja Mágica 
 * **Fecha:** 15/05/2026
