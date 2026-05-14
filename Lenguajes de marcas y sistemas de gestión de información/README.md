@@ -7,14 +7,14 @@ Este repositorio contiene la estructura de
 datos XML desarrollada para la plataforma
 web de la carniceria "De la Granja".
 El negocio esta ubicado en San Cristobal,
-Venezuela, y ofrece atencion personalizada[cite: 1, 2].
+Venezuela, y ofrece atencion personalizada.
 
 El archivo XML representa el catalogo
 real de productos, organizado de la
 siguiente manera:
-- Combos familiares y promocionales[cite: 4, 5].
-- Cortes de res y ofertas de pollo[cite: 2, 5].
-- Menu de comida rapida[cite: 3].
+- Combos familiares y promocionales.
+- Cortes de res y ofertas de pollo.
+- Menu de comida rapida.
 
 Cada articulo incluye su descripcion,
 categoria asignada, precio en dolares (USD)
